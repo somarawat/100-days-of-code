@@ -1,7 +1,5 @@
-// ...existing code...
 #include <stdio.h>
 #include <math.h>
-
 int main(void) {
     double a, b, c;
     printf("Enter coefficients a b c: ");
